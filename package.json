@@ -1,0 +1,22 @@
+{
+  "name": "131chalkproject",
+  "version": "1.0.0",
+  "description": "Git proof of concept with Visual Studio Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelHWilson/131ChalkProject.git"
+  },
+  "author": "Samuel Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelHWilson/131ChalkProject/issues"
+  },
+  "homepage": "https://github.com/SamuelHWilson/131ChalkProject#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
